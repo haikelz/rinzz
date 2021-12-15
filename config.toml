@@ -1,0 +1,40 @@
+title = "Haikel"
+baseurl = ""
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "rinzz"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = ""
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-1" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Situs Saya"
+
+# Biodata Author
+[author]
+    name = "Haikel"
+    homepage = "https://github.com/haikelz"
+    bio = "Fastabiqul Khoirot"
+    image = "https://avatars.githubusercontent.com/u/77146709?v=4"
+
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = 'dracula'
+    tabWidth = 4
