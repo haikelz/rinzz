@@ -28,6 +28,3 @@ HUGO_VERSION = "0.85.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-© 2021 GitHub, Inc.
-Terms
-Privacy
