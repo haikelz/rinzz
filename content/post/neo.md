@@ -3,6 +3,7 @@ author: Haikel
 date: 2021-12-08 
 title: "Migrasi Dari Visual Studio Code ke Neovim"
 image: https://avatars.githubusercontent.com/u/77146709?v=4
+draft: true
 ---
 
 Tulisan Singkat: Migrasi Text Editor Utama Dari VScode ke Neovim
