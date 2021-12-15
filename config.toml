@@ -1,5 +1,5 @@
 title = "Rinzz Theme"
-baseurl = "Rinzz"
+baseurl = "https://rinzz.netlify.app"
 MetaDataFormat = "yaml"
 themesDir = "themes"
 theme = "rinzz"
