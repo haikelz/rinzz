@@ -1,20 +1,10 @@
-title = "Haikel"
-baseurl = ""
-
-# Agar front-matter pakai format YAML
+title = "Rinzz Theme"
+baseurl = "Rinzz"
 MetaDataFormat = "yaml"
-
-# untuk apply temanya
 themesDir = "themes"
 theme = "rinzz"
-
-# Shortname disqus, silahkan sesuaikan
 DisqusShortname = ""
-
-# Untuk Google Analytic, silahkan sesuikan
-googleAnalytics = "UA-80517197-1" 
-
-# Untuk deskripsi tag meta di homepage
+googleAnalytics = "" 
 description = "Situs Saya"
 
 # Biodata Author
@@ -23,8 +13,7 @@ description = "Situs Saya"
     homepage = "https://github.com/haikelz"
     bio = "Fastabiqul Khoirot"
     image = "https://avatars.githubusercontent.com/u/77146709?v=4"
-
-
+    
 [markup]
   [markup.highlight]
     anchorLineNos = false
